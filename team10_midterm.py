@@ -2,4 +2,8 @@
 # Mark Mariscal, Chris Piwarski, Wais Robleh
 # 07 November 2018
 
-#here is the first change
+
+# Filter that makes it America
+def CSUMB_Filter():
+    return
+
